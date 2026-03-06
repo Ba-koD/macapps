@@ -37,7 +37,7 @@
 ## 3) 기타 설정 및 프로그램
 - **Arc**: 디자인이 깔끔하고 다중 구글 계정 관리에 편리(개발 중단, 보안 패치만 진행)
 - **Zen Browser**: Firefox 계열을 선호하면 대안으로 사용 가능
-- **powerlevel10k**: `zsh` 프롬프트 테마
+- **powerlevel10k**: `zsh` 프롬프트 테마(Starship으로 대체)
 - **MesloLGS NF**: Nerd Font 아이콘 지원 폰트
 
 ## 4) 추가 정보: 구름입력기 + 오른쪽 Command 키
